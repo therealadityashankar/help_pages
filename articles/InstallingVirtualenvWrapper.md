@@ -21,4 +21,4 @@ We install virtualenvwrapper for all new users by default. If you've got an olde
     source virtualenvwrapper.sh
 
 
-Once you've added the virtualenvwrapper command to your `.basrhc`, mkvirtualenv and all the other tools will be available in all your bash consoles.
+Once you've added the virtualenvwrapper command to your `.bashrc`, mkvirtualenv and all the other tools will be available in all your bash consoles.
